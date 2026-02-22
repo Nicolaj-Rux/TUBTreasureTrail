@@ -1,6 +1,6 @@
 # 🎮 TUB Treasure Trail
 
-🌐 [Start the Hunt](https://nicolajrux.github.io/SuperTUWorld)
+🌐 [Start the Hunt](https://nicolaj-rux.github.io/TUBTreasureTrail/)
 
 A fun and interactive scavenger hunt for TU Berlin students to explore the campus and take care of some essential organizational steps.  
 Stops include the Unix Pool (to set up student accounts) and the library (to find welcome boxes for the semester start).
@@ -21,7 +21,7 @@ This repository contains all files necessary to run the scavenger hunt.
 
 ### 🛠 How to Set It Up
 
-1. **Start students on a subpage**, e.g.: https://nicolajrux.github.io/SuperTUWorld/html/page000MATHEINI.html 
+1. **Start students on a subpage**, e.g.: https://nicolaj-rux.github.io/TUBTreasureTrail/html/page000MATHEINI.html 
 2. There, students find an image (e.g. a statue).
 3. They need to solve the riddle to figure out the **Magic word**.
 4. That word is the **PASSWORD** for the next location.
